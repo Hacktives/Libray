@@ -32,7 +32,7 @@ links:
 # ------------ CONFIGURABLE END ------------
 
 #permalink:        /:categories/:title.html
-permalink: /:categories/:title
+permalink: /:title
 defaults:
   - values:
       layout: "default"
